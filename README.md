@@ -1,4 +1,4 @@
-### Data-Analysis-Salarios-Prefietura-SJC
+### Data-Analysis-Salarios-Prefetura-SJC
 
 Analise de dados de de salarios da prefeitura de São José dos Campos no mês de Outubro de 2018.
 
